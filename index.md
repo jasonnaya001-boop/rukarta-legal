@@ -1,10 +1,10 @@
 # Rukarta Privacy Policy
 
-**Effective date:** October 11, 2026
+**Effective date:** October 13, 2026
 **Developer:** Jason Naya
 **Contact:** jasonnaya@live.com
 
-Rukarta ("the app", "we") is a Russian verb learning app. This policy explains what information the app uses and what it does not. In short: Rukarta has no accounts, no advertising and no analytics, and we do not collect personal information about you.
+Rukarta ("the app", "we") is a Russian verb learning app. This policy explains what information the app uses and what it does not. In short: Rukarta has no accounts, no advertising and no analytics, it works offline with content stored in the app, and we do not collect personal information about you.
 
 ## Information we do not collect
 
@@ -18,9 +18,11 @@ Rukarta ("the app", "we") is a Russian verb learning app. This policy explains w
 
 To work as a study tool, the app saves a small amount of data **only on your device**, such as which verbs you have opened and how often, and your practice history. This data is never sent to us or to anyone else. It stays on your device until you delete the app or clear its data, at which point it is removed.
 
-## Internet requests
+## Internet use
 
-The app mostly works with content stored inside it. For some verbs it may look up extra example sentences from online example-sentence services over the internet. When it does, the request includes the verb being looked up. As with any internet request, the service receiving it can see your device's IP address and basic technical information such as your device type and app version. We do not control those services and they have their own privacy practices. No account or personal information from you is included in these requests.
+Rukarta's study content, including its verbs, word forms and example sentences, is stored inside the app. The app does not contact any service to load that content, and it does not send the verbs you study, your study history or any other personal information anywhere.
+
+The only internet activity is with Apple's App Store when you view, buy or restore Rukarta Pro (see Purchases below). Apple handles that under its own privacy policy.
 
 ## Read-aloud feature
 
@@ -49,3 +51,4 @@ If we change how the app handles information, we will update this policy and cha
 ## Contact
 
 Questions about this policy: jasonnaya@live.com
+
